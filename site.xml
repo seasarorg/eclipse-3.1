@@ -12,7 +12,15 @@
    <feature url="features/org.seasar.diigu.eclipse_1.0.0.jar" id="org.seasar.diigu.eclipse" version="1.0.0">
       <category name="Diigu"/>
    </feature>
+   <feature url="features/org.seasar.dblauncher_0.0.2.jar" id="org.seasar.dblauncher" version="0.0.2">
+      <category name="DbLauncher"/>
+   </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.13.0.jar" id="org.seasar.dolteng.eclipse" version="0.13.0">
+      <category name="Dolteng"/>
+   </feature>
    <category-def name="Kijimuna" label="Kijimuna"/>
    <category-def name="Maihime Plug-in" label="Maihime Plug-in"/>
    <category-def name="Diigu" label="Diigu"/>
+   <category-def name="DbLauncher" label="DbLauncher"/>
+   <category-def name="Dolteng" label="Dolteng"/>
 </site>
